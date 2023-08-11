@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Marcia
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development,UI/UX Design
 - 🌱 I’m currently learning the MERN Stack
 - 💞️ I’m looking to collaborate on different projects like e-commerce, health, blogs.
 - 📫 Reach me via my website
-- https://marcia-vazquez.netlify.app/
+ https://marcia-denise-vazquez.netlify.app/
 
 <!---
 marcia1997/marcia1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
