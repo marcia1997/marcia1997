@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Marcia
-- 👀 I’m interested in Web Development,UI/UX Design
-- 🌱 I’m currently learning the MERN Stack
-- 💞️ I’m looking to collaborate on different projects like e-commerce, health, blogs.
+ 
 - 📫 Reach me via my website
  https://marcia-denise-vazquez.netlify.app/
 
